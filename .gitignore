@@ -1,0 +1,16 @@
+# Archivos de registro
+*.log
+registro_eventos_log
+
+# Basura de python
+__pycache__/
+*.__pycache__
+
+#Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+venv/
+env/
+ 

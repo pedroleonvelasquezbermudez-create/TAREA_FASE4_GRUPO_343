@@ -11,5 +11,5 @@ Este proyecto es una aplicación orientada a objetos desarrollada para gestionar
 - [x] Estructura base de excepciones y logs.
 - [x] Clase abstracta de entidades.
 - [x] Clase Cliente con validaciones.
-- [ ] Clases de Servicios.
+- [x] Clases de Servicios.
 - [ ] Clase Reserva y simulación de 10 operaciones.

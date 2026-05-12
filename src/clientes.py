@@ -19,7 +19,7 @@ class Cliente(EntidadBase):
 
     # Getters: para poder leer los datos privados de forma segura
     @property
-    def nombre(self):
+    def get_nombre(self):
         return self.__nombre
 
     # Lo definimos como abstracto en EntidadBase
